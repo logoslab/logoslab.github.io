@@ -3,36 +3,42 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Container, Navbar, NavDropdown, Nav, Carousel } from 'react-bootstrap'
 import styles from '../../styles/Home.module.css'
+ {/* @ts-ignore */}
+const customLoader =({ src }) => {
+    return `${src}`
+  }
 
 const Pictures: NextPage = () => {
     return (
         <>
-        <Carousel id='home' style={{backgroundColor:'0xa4a4a4'}}>
+        <Carousel id='home' style={{backgroundColor:'0xa4a4a4'}}
+            variant='dark'
+        >
         <Carousel.Item  style={{textAlign:'center'}}>
-          <img
+          <Image
             // className="d-block w-75"
-            src="./1.jpg"
+            loader={customLoader}
+            src="1.jpg"
             alt="First slide"
             width={'960'}
-            height={'540'}
-            style={{margin:'auto'}}
+            height={'554'}
           />
-          <Carousel.Caption>
+          <Carousel.Caption style={{color:'white'}}>
             <h3>Logos Lab</h3>
             <p>- Creative, Productive, Joy and Fun -</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item style={{textAlign:'center'}}>
-          <img
+          <Image
             // className="d-block w-100"
-            src="./2.jpg"
+            loader={customLoader}
+            src="2.jpg"
             alt="Second slide"
             width={'960'}
-            height={'540'}
-            style={{margin:'auto'}}
+            height={'554'}
           />
 
-        <Carousel.Caption>
+        <Carousel.Caption style={{color:'white'}}>
             <h3>Logos Lab</h3>
             <p>- The most creative, productive and exciting research lab … -</p>
           </Carousel.Caption>
