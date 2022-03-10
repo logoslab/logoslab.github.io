@@ -2,7 +2,7 @@
 const debug = process.env.NODE_ENV !== 'production';
 const nextConfig = {
   reactStrictMode: true,
-  assetPrefix: !debug ? '/next-markdown-editor/' : '.',
+  assetPrefix: !debug ? '/LabWebSite/' : '.',
   images: {
     loader: "custom",
   },
