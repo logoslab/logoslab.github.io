@@ -5,7 +5,7 @@ import YouTube from "react-youtube";
 import { Container, Navbar, NavDropdown, Nav, Carousel } from 'react-bootstrap'
 import styles from '../../styles/Home.module.css'
 {/* @ts-ignore */ }
-const customLoader = ({ src }) => {
+const customLoader = ({ src, width }) => {
   return `${src}`
 }
 

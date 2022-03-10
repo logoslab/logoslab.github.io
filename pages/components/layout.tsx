@@ -12,12 +12,13 @@ const Layout: NextPage = ({children}) => {
         <link rel="icon" href="/favicon.ico" />
         
       </Head>
-      <link
+      <link href="bootstrap.min.css" media="all" rel="stylesheet" type="text/css" />
+      {/* <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
           integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
           crossOrigin="anonymous"
-        />
+        /> */}
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" style={{position: 'sticky',zIndex:'999',top:'0'}}>
         <Container>
           <Navbar.Brand href="#home">Logos Lab</Navbar.Brand>
