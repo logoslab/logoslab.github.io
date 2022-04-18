@@ -14,9 +14,7 @@ const Pictures: NextPage = () => {
   return (
     <>
       {/* @ts-ignore */ } 
-      <Carousel id='home' style={{ backgroundColor: '0xa4a4a4'}}
-        variant='dark'
-      >
+      <Carousel id='home'  variant='dark'>
         <Carousel.Item style={{ textAlign: 'center' }}>
           <Figure>
             <Figure.Image width={width}  height={height}  alt="First slide"  src="1.jpg"/>

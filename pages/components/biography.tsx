@@ -10,9 +10,9 @@ const Biography: NextPage = () => {
       <br/><br/><br/>
       <h2>Biography</h2>
       <div>
-        <Figure style={{float:'right',marginLeft:'3%'}}>
-          <Figure.Image width={171}  height={180}  alt="171x180"  src="3.jpg"/>
-          <Figure.Caption style={{textAlign:'center'}}>蔡仁松 教授</Figure.Caption>
+        <Figure style={{float:'right',marginLeft:'3%',textAlign:'center', width:'18%'}}>
+          <Figure.Image width={'100%'}  height={'100%'}  alt="171x180"  src="3.jpg"/>
+          <Figure.Caption>蔡仁松 教授</Figure.Caption>
         </Figure>
         <p><strong>蔡仁松 教授 1980年畢業於台灣大學電機工程系。1985年申請進入柏克萊大學，並取得電機工程及電腦博士學位。畢業後至 IBM 公司研發部工作。1992年參與起創 ArcSys 公司( 後合併入 Synopsys )，並任產品設計總監，發展世界第一個成功的 IC 速率優化設計工具。1997年另再創辦 Axis 公司( 現併入 Cadence )，設計製作一個可以用軟體隨意組架的電腦系統( Reconfigurable Computer )，市場上銷售非常成功。蔡教授的長處在於結合理論與實務，而開發多項業界必用的產品。由於經驗豐富，國內外多家公司邀聘為顧問及董事。2004及2005暑期應清華大學電資學院邀請任特聘講座。現為清華大學專任教授。除專業課程外，亦教授「高科技創業學」傳遞創業經驗。</strong></p>
         <p><strong>個人擁有多項專利。在 IEEE 雜誌發表過數十篇專業論文，並榮獲該雜誌頒發之電腦輔助設計最佳論文獎。另獲選 ICCAD 20 年最佳論文。亦曾獲 IBM 公司之技術成就獎。</strong></p>

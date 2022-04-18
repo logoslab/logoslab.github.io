@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
+import Script from 'next/script'
 import { Container, Navbar, NavDropdown, Nav, Carousel } from 'react-bootstrap'
 import styles from '../../styles/Home.module.css'
 const Layout: NextPage = ({children}) => {
@@ -13,8 +13,16 @@ const Layout: NextPage = ({children}) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="UTF-8"/> 
         <link rel="icon" href="/favicon.ico" />
-        
       </Head>
+      {/* <!-- Global site tag (gtag.js) - Google Analytics */}
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-8VTCYEW3YL"></Script>
+      <Script id="google-analytics" strategy="afterInteractive">{`
+        window.dataLayer = window.dataLayer || [];
+        {/* @ts-ignore */ }
+        function gtag(){dataLayer.push(arguments)}
+        gtag('js', new Date());
+        gtag('config', 'G-8VTCYEW3YL');`}
+      </Script>
       <link href="bootstrap.min.css" media="all" rel="stylesheet" type="text/css" />
       {/* <link
           rel="stylesheet"
