@@ -31,7 +31,7 @@ const News: NextPage = () => {
 		    </Col>
         <Col xs={4}>
         <Carousel navButtonsAlwaysVisible={true} autoPlay={false} >
-          {playList.map(v_id => <div style={{justifyContent:'center', alignItems:'center', display:'flex'}}>
+          {playList.map((v_id,index) => <div key={index} style={{justifyContent:'center', alignItems:'center', display:'flex'}}>
             {/* @ts-ignore */ }
             <YouTube  containerClassName="video-container" className="iframe" videoId={v_id} rel="0" opts={opts}/>
           </div>)}
