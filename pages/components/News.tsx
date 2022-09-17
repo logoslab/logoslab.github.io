@@ -11,7 +11,7 @@ const News: NextPage = () => {
     height: 'auto',
     width: 'auto',
     playerVars: {
-      autoplay: 1,
+      autoplay: 0,
     },
   };
 
