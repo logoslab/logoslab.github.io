@@ -17,7 +17,7 @@ const Member: NextPage = () => {
         <h4><strong>● Ph.D. students</strong></h4>
         <p>&nbsp;楊奕君 江政勳 李冠學</p>
         <h4><strong>● Master students</strong></h4>
-        <p>陳詠瑄 盧冠甫 高瑞宏 王睿哲 蔡惟恩 黃柏惟 蘇子軒 彭湘婷</p>
+        <p>陳詠瑄 盧冠甫 高瑞宏 王睿哲 蔡惟恩 黃柏惟 蘇子軒 彭湘婷 李柏漢 莊皓宇 陳唯中</p>
         <h4><strong>● Alumni</strong></h4>
         <p>2008年 林凱立 羅億綸</p>
         <p>2009年 李建旻</p>

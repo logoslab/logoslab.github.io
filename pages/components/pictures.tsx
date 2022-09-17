@@ -14,7 +14,7 @@ const Pictures: NextPage = () => {
   return (
     <>
       {/* @ts-ignore */ } 
-      <Carousel id='home'  variant='dark'>
+      <Carousel id='home'  variant='dark' interval={5000}>
         <Carousel.Item style={{ textAlign: 'center' }}>
           <Figure>
             <Figure.Image width={width}  height={height}  alt="First slide"  src="1.jpg"/>
@@ -26,7 +26,16 @@ const Pictures: NextPage = () => {
         </Carousel.Item>
         <Carousel.Item style={{ textAlign: 'center' }}>
           <Figure>
-            <Figure.Image width={width}  height={height}  alt="second slide"  src="2.jpg"/>
+            <Figure.Image width={width}  height={height}  alt="second slide"  src="4.jpg"/>
+          </Figure>
+          <Carousel.Caption style={{ color: 'white' }}>
+            <h3>Logos Lab</h3>
+            <p>- The most creative, productive and exciting research lab … -</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item style={{ textAlign: 'center' }}>
+          <Figure>
+            <Figure.Image width={width}  height={height}  alt="third slide"  src="2.jpg"/>
           </Figure>
           <Carousel.Caption style={{ color: 'white' }}>
             <h3>Logos Lab</h3>
