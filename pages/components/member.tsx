@@ -15,9 +15,9 @@ const Member: NextPage = () => {
         <h4><strong>● Part-time postgraduate students</strong></h4>
         <p>吳昕益</p>
         <h4><strong>● Ph.D. students</strong></h4>
-        <p>&nbsp;楊奕君 江政勳 李冠學</p>
+        <p>&nbsp;楊奕君 江政勳</p>
         <h4><strong>● Master students</strong></h4>
-        <p>陳詠瑄 盧冠甫 高瑞宏 王睿哲 蔡惟恩 黃柏惟 蘇子軒 彭湘婷 李柏漢 莊皓宇 陳唯中</p>
+        <p>王睿哲 蔡惟恩 彭湘婷 李柏漢 陳唯中 王念祖</p>
         <h4><strong>● Alumni</strong></h4>
         <p>2008年 林凱立 羅億綸</p>
         <p>2009年 李建旻</p>
@@ -33,6 +33,8 @@ const Member: NextPage = () => {
         <p>2019年 金國丞 郭達毅 呂宗穎 理艾辛</p>
         <p>2020年 葉揚 黃翊紘 凌胤淳 李佳齊</p>
         <p>2021年 金緒勳 郭韋逸</p>
+        <p>2023年 陳詠瑄 盧冠甫 高瑞宏</p>
+        <p>2024年 李冠學 蘇子軒</p>
       </div>
     </Container>
   )
