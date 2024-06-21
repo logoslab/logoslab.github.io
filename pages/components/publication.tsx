@@ -12,9 +12,29 @@ const Publication: NextPage = () => {
       <div>
         <p><strong>[Recent publications]</strong></p>
         <p><strong>Books:</strong></p>
-        <ol><li>「高科技創業與營運教師手冊」蔡仁松著,2021, 清大出版</li><li>「6小時從零到一: 高科技創業入門教師手冊」蔡仁松著,2021, 清大出版</li><li>「創新創意與創業課程教師手冊」蔡仁松著，2021, 社團法人台灣佳美生命建造協會</li><li>「 高科技創業與營運」蔡仁松著,2021. 社團法人台灣佳美生命建造協會</li><li>「創新創意與創業」蔡仁松著，2021, 社團法人台灣佳美生命建造協會</li><li>「6小時從零到一: 高科技創業入門」蔡仁松著,2020, 奇智出版</li><li>「道在人間」蔡仁松著,2019, 台灣佳美協會出版</li><li>「傾聽他的心引導員手冊」蔡仁松 李富華著，2019, 社團法人台灣佳美生命建造協會出版</li><li><strong>「</strong>天問旅程<strong>」</strong>蔡仁松著,2017, 台灣佳美協會出版</li><li>「蟲蟲危機大作戰」蔡仁松 李富華著，2017, 社團法人台灣佳美生命建造協會出版</li><li>「理理力溝通」蔡仁松 李富華著，2017, 社團法人台灣佳美生命建造協會出版</li><li>「心靈地圖」蔡仁松 李富華著，2017, 社團法人台灣佳美生命建造協會出版</li></ol>
+        <ol>
+          <li>「高科技創業與營運教師手冊」蔡仁松著,2021, 清大出版</li>
+          <li>「6小時從零到一: 高科技創業入門教師手冊」蔡仁松著,2021, 清大出版</li>
+          <li>「創新創意與創業課程教師手冊」蔡仁松著，2021, 社團法人台灣佳美生命建造協會</li>
+          <li>「 高科技創業與營運」蔡仁松著,2021. 社團法人台灣佳美生命建造協會</li>
+          <li>「創新創意與創業」蔡仁松著，2021, 社團法人台灣佳美生命建造協會</li>
+          <li>「6小時從零到一: 高科技創業入門」蔡仁松著,2020, 奇智出版</li>
+          <li>「道在人間」蔡仁松著,2019, 台灣佳美協會出版</li>
+          <li>「傾聽他的心引導員手冊」蔡仁松 李富華著，2019, 社團法人台灣佳美生命建造協會出版</li>
+          <li><strong>「</strong>天問旅程<strong>」</strong>蔡仁松著,2017, 台灣佳美協會出版</li>
+          <li>「蟲蟲危機大作戰」蔡仁松 李富華著，2017, 社團法人台灣佳美生命建造協會出版</li>
+          <li>「理理力溝通」蔡仁松 李富華著，2017, 社團法人台灣佳美生命建造協會出版</li>
+          <li>「心靈地圖」蔡仁松 李富華著，2017, 社團法人台灣佳美生命建造協會出版</li></ol>
         <p><strong>Journal Papers:</strong></p>
-        <ol><li>Hsin-I Wu, Da-Yi Guo, and Ren-Song Tsay, “A Virtualization-Assisted Full-System Simulation Approach for the Verification of System Inter-Component Interactions,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020</li><li>Jyun-Hao Chang, Hsin-I Wu,  Hsien-Lun Pai, Ren-Song Tsay, Wai-Kei Mak, “Highly Efficient and Effective Approach for Synchronization-Function-Level Parallel Multicore  Instruction-Set Simulations.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 34.11 (2015): 1822-1835.</li><li>Chang, F-Y., R-S. Tsay, W-K.  Mak, and S-H. Chen. “MANA: A Shortest Path Maze Algorithm Under Separation and Minimum Length NAnometer Rules.” IEEE Transactions on  Computer-Aided Design of Integrated Circuits and Systems, 32, no. 10      (2013): 1557-1568.</li><li>Chen-Kang Lo, Mao-Lin Li, Jen-Chieh Yeh, Ren-Song Tsay, “Automatic Generation of High-speed Accurate  TLM Models for Out-of-Order Pipelined Bus,” ACM Transactions on Embedded Computing Systems, 2013.</li><li>Meng-Huan Wu, Cheng-Yang Fu, Peng-Chih Wang, Ren-Song Tsay, “A Distributed Timing Synchronization  Technique for Parallel Multi-Core Instruction-Set Simulation,” ACM Transactions on Embedded Computing Systems, Feb. 2013.</li><li>Meng-Huan Wu, Peng-Chih Wang, Cheng-Yang Fu, and Ren-Song Tsay, “An Extended SystemC Framework for Efficient and Reliable HW/SW Co-Simulation,” ACM Transactions on Design Automation of Electronic Systems (TODAES), Volume 17 Issue 2, April 2012</li><li>Ching-Te Chiu , Tsun-Hsien  Wang , Wei-Ming Ke , Chen-Yu Chuang , Jhih-Siao Huang , Wei-Su Wong ,  Ren-Song Tsay, and Cyuan-Jhe Wu, “Real-Time Tone-Mapping Processor with Integrated Photographic and Gradient Compression using 0.13 μm Technology on an Arm Soc Platform,” Journal of Signal Processing Systems, Springer,      June 2010.</li></ol>
+        <ol>
+          <li>Hsin-I Wu, Da-Yi Guo, and Ren-Song Tsay, “A Virtualization-Assisted Full-System Simulation Approach for the Verification of System Inter-Component Interactions,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020</li>
+          <li>Jyun-Hao Chang, Hsin-I Wu,  Hsien-Lun Pai, Ren-Song Tsay, Wai-Kei Mak, “Highly Efficient and Effective Approach for Synchronization-Function-Level Parallel Multicore  Instruction-Set Simulations.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 34.11 (2015): 1822-1835.</li>
+          <li>Chang, F-Y., R-S. Tsay, W-K.  Mak, and S-H. Chen. “MANA: A Shortest Path Maze Algorithm Under Separation and Minimum Length NAnometer Rules.” IEEE Transactions on  Computer-Aided Design of Integrated Circuits and Systems, 32, no. 10      (2013): 1557-1568.</li>
+          <li>Chen-Kang Lo, Mao-Lin Li, Jen-Chieh Yeh, Ren-Song Tsay, “Automatic Generation of High-speed Accurate  TLM Models for Out-of-Order Pipelined Bus,” ACM Transactions on Embedded Computing Systems, 2013.</li>
+          <li>Meng-Huan Wu, Cheng-Yang Fu, Peng-Chih Wang, Ren-Song Tsay, “A Distributed Timing Synchronization  Technique for Parallel Multi-Core Instruction-Set Simulation,” ACM Transactions on Embedded Computing Systems, Feb. 2013.</li>
+          <li>Meng-Huan Wu, Peng-Chih Wang, Cheng-Yang Fu, and Ren-Song Tsay, “An Extended SystemC Framework for Efficient and Reliable HW/SW Co-Simulation,” ACM Transactions on Design Automation of Electronic Systems (TODAES), Volume 17 Issue 2, April 2012</li>
+          <li>Ching-Te Chiu , Tsun-Hsien  Wang , Wei-Ming Ke , Chen-Yu Chuang , Jhih-Siao Huang , Wei-Su Wong ,  Ren-Song Tsay, and Cyuan-Jhe Wu, “Real-Time Tone-Mapping Processor with Integrated Photographic and Gradient Compression using 0.13 μm Technology on an Arm Soc Platform,” Journal of Signal Processing Systems, Springer,      June 2010.</li>
+        </ol>
         <p><strong>International Conference Papers:</strong></p>
         <ol>
           <li>You-En Wu, Hsin-I Wu, Kuo-Cheng Chin, Yi-Chun Yang and Ren-Song Tsay, “Accelerate Large Language Model Inference on Edge TPU with OpenVX framework,” AICAS 2024</li>
@@ -71,7 +91,7 @@ const Publication: NextPage = () => {
           <li>Chen Kang Lo, and Ren Song      Tsay, “ <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=4796539&amp;isnumber=4796414">Automatic Generation of Cycle      Accurate and Cycle Count Accurate Transaction Level Bus Models from a      Formal Model</a>,”      in <em>Proceedings of </em>ASPDAC, pp.558-563, 2009</li>
           <li>Ching-Te Chiu, Tsun-Hsien      Wang, Wei-Ming Ke, Chen-Yu Chuang, Jhih-Siao Huang, Wei-Su Wong, and      Ren-Song Tsay, “<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=04671732">A 100mhz Real-Time Tone      Mapping Processor With Integrated Photographic and Gradient Compression in      0.13 Um Technolgy</a>,” IEEE Workshop on Signal Processing Systems,      25~30, 2008.</li>
           <li>Ching-Te Chiu, Tsun-Hsien      Wang, Wei-Ming Ke, Chen-Yu Chuang, Jhih-Rong Chen, Rong Yang, and Ren-Song      Tsay, “<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=4712026&amp;isnumber=4711669">Design Optimization Of a      Global/Local Tone Mapping Processor on Arm Soc Platform for Real-Time High      Dynamic Range Video</a>,”, 15th IEEE International Conference on Image  Processing, pp. 1400~1403, 2008</li>
-        </ol>        
+        </ol>
         <p> 55. Ren-Song Tsay, “<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=4231451&amp;isnumber=4231412">An Entrepreneurship Emulation Platform</a>,” International Conference on Microelectronic Systems Education, 63~64, 2007 </p>
         <p><strong>Domestic Conference Papers:</strong></p>
         <ol>
