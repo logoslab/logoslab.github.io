@@ -27,7 +27,7 @@ const Publication: NextPage = () => {
           <li>「心靈地圖」蔡仁松 李富華著，2017, 社團法人台灣佳美生命建造協會出版</li></ol>
         <p><strong>Journal Papers:</strong></p>
         <ol>
-          <li>1.	Yi-Chun Yang, Kuan-Fu Lu, Yong-Xuan Chen, and Ren-Song Tsay, “Ensuring GDPR Compliance in IoT Network with a Glass Box Security Guard System,” in IEEE Transactions on Privacy, vol. 2, pp. 27-40, 2025</li>
+          <li>Yi-Chun Yang, Kuan-Fu Lu, Yong-Xuan Chen, and Ren-Song Tsay, “Ensuring GDPR Compliance in IoT Network with a Glass Box Security Guard System,” in IEEE Transactions on Privacy, vol. 2, pp. 27-40, 2025</li>
           <li>Hsin-I Wu, Da-Yi Guo, and Ren-Song Tsay, “A Virtualization-Assisted Full-System Simulation Approach for the Verification of System Inter-Component Interactions,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020</li>
           <li>Jyun-Hao Chang, Hsin-I Wu,  Hsien-Lun Pai, Ren-Song Tsay, Wai-Kei Mak, “Highly Efficient and Effective Approach for Synchronization-Function-Level Parallel Multicore  Instruction-Set Simulations.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 34.11 (2015): 1822-1835.</li>
           <li>Chang, F-Y., R-S. Tsay, W-K.  Mak, and S-H. Chen. “MANA: A Shortest Path Maze Algorithm Under Separation and Minimum Length NAnometer Rules.” IEEE Transactions on  Computer-Aided Design of Integrated Circuits and Systems, 32, no. 10      (2013): 1557-1568.</li>
@@ -38,7 +38,7 @@ const Publication: NextPage = () => {
         </ol>
         <p><strong>International Conference Papers:</strong></p>
         <ol>
-          <li>Wang, Nian-Zu, and Ren-Song Tsay. "A Secure Decentralized Key Backup and Social Recovery Method." 2024 International Conference on Consumer Electronics-Taiwan (ICCE-Taiwan). IEEE, 2024.</li>
+          <li>Wang, Nian-Zu, and Ren-Song Tsay. “A Secure Decentralized Key Backup and Social Recovery Method.” 2024 International Conference on Consumer Electronics-Taiwan. (IEEE)</li>
           <li>You-En Wu, Hsin-I Wu, Kuo-Cheng Chin, Yi-Chun Yang and Ren-Song Tsay, “Accelerate Large Language Model Inference on Edge TPU with OpenVX framework,” AICAS 2024</li>
           <li>Hsuan-Yi Lin and Ren-Song Tsay, “Accurate Performance Estimation with BBFDA: Beyond Granularity Constraints,” SASIMI 2024</li>
           <li>Hsuan-Yi Lin and Ren-Song Tsay, “Beyond Time-Quantum: A Basic-Block FDA Approach for Accurate System Computing Performance Estimation,” ASP-DAC 2024</li>
